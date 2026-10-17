@@ -1,0 +1,16 @@
+# Python 运行时产物
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 编辑器和 IDE
+.idea/
+.vscode/
+
+# 本程序的输出（每次运行都会重新生成，不需要版本管理）
+data/数据分析报告.txt
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
